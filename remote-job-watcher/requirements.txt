@@ -1,0 +1,12 @@
+requests
+plyer
+# needed only for the JobSpy-backed sources (indeed/glassdoor/google/naukri), which import ../jobspy
+pandas
+numpy
+beautifulsoup4
+pydantic
+tls-client
+markdownify
+regex
+# tests
+pytest

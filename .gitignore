@@ -1,0 +1,18 @@
+/venv/
+/.idea
+**/__pycache__/
+**/.pytest_cache/
+/.ipynb_checkpoints/
+**/output/
+**/.DS_Store
+*.pyc
+.env
+dist
+./remote-job-watcher/.env.local
+./remote-job-watcher/.venv
+# job_watcher runtime data
+remote-job-watcher/state/
+remote-job-watcher/logs/
+remote-job-watcher/__pycache__/
+# user-managed company board tokens (keep company_boards.example.json tracked)
+remote-job-watcher/config/company_boards.json

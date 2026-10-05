@@ -1,0 +1,761 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-c848f7ee5b7b5fe6","indeed","https://www.indeed.com/viewjob?jk=c848f7ee5b7b5fe6","https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Sr-Manager_REF088675W","Sr. Manager, Software Engineer (Team Lead)","Visa","Foster City, CA, US","2026-09-29","fulltime","direct_data","yearly",192100.0,307800.0,"USD",False,"","","","","**About Us**  
+
+Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.
+
+
+At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+
+
+Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you.
+
+**Job Description**
+
+
+Role Summary:  
+
+The Sr. Manager; Software Engineering leads a team responsible for reviewing business requirements and developing functional and technical design documentation. This role oversees the design and implementation of testing procedures for APIs, abstractions, and integration patterns to address distributed computing challenges, including end\\-to\\-end and integration testing. The Sr. Manager participates in design reviews, providing input on requirements, product designs, schedules, and potential issues, and works across the team to ensure productivity, predictability, and delivery of high\\-quality results.  
+
+  
+
+The position includes accountability for code review and the team’s development and testing activities, as well as participation in proof of concepts and technical evaluations of new technologies. The Sr. Manager is expected to foster a collaborative environment, ensuring the team meets business needs and delivers robust solutions.  
+
+  
+
+All roles require digital fluency, including the ability to work with emerging technologies such as Generative AI tools (e.g. ChatGPT, Microsoft Copilot) and agentic development to support everyday work.  
+
+  
+
+Essential Functions:
+
+* People Leadership: Direct, mentor, and build a high\\-performing team of 8\\+ software engineers. Drive career development, performance management, regular 1:1s, and goal setting.
+* Team Execution \\& Delivery: Oversee end\\-to\\-end application development deliverables including unit design, coding, code reviews, testing, and release management.
+* Resource \\& Capacity Planning: Manage team workload, sprint planning, hiring, onboarding, and resource allocation to meet project timelines and deliverables.
+* Technical \\& Strategic Guidance: Collaborate with technical leads, architects, and product managers to define solution approaches, assess scope, and evaluate technical feasibility.
+* Agile Leadership: Drive agile development workflows utilizing modern open\\-source, CI/CD, and DevOps tools to streamline continuous integration and delivery pipelines.
+* Cross\\-Functional Collaboration: Partner closely with global cross\\-functional teams, including product management, QA, security, and operations, to resolve blockers and ensure aligned delivery.
+* Compliance \\& Quality: Ensure development adheres to Visa Development Management Methodology, Technical Security Requirements, and Secure Software Development Lifecycle (SSDLC) protocols.
+* Documentation \\& Process Improvement: Maintain clear software, operational, and architectural documentation while continually improving engineering practices and procedures.
+
+  
+
+Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager.
+
+**Qualifications**
+
+
+Basic Qualifications:
+
+* 8\\+ years of relevant work experience and a Bachelors degree, OR 11\\+ years of relevant work experience.
+* Experience building and supporting large\\-scale, high\\-performance, mission\\-critical applications.
+* Strong hands\\-on software engineering experience, including coding, code reviews, and technical design.
+* Proven ability to lead technical initiatives and drive architecture decisions.
+* Experience with cloud\\-native technologies, distributed systems, APIs, and microservices.
+* Experience supporting Tier\\-0 or highly available production systems.
+* Ability to mentor engineers and provide technical leadership across engineering teams.
+* Strong understanding of software engineering best practices, including CI/CD, testing, observability, and operational excellence
+
+  
+
+Preferred Qualifications:
+
+* 9 or more years of relevant work experience with a Bachelor Degree or 7 or more relevant years of experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or 3 or more years of experience with a PhD.
+* 3\\+ years of direct people\\-management experience preferred; candidates who have led teams through technical influence, matrix leadership, or technical leadership without direct authority will also be considered..
+* Demonstrated experience leading software engineering teams, including delivery management, technical oversight, performance accountability, and talent development.
+* Experience translating business and product requirements into scalable technical solutions, architecture decisions, delivery plans, and technical documentation.
+* Proven ability to lead the design, development, testing, integration, deployment, and production support of complex, mission\\-critical applications.
+* Strong experience overseeing API platforms, distributed systems, microservices, and enterprise integration patterns.
+* Experience leading architecture and design reviews, evaluating technical tradeoffs, and ensuring solutions meet requirements for scalability, reliability, security, and performance.
+* Experience establishing engineering standards and maintaining accountability for code quality, testing, secure development, release readiness, and production stability.
+* Proven ability to manage delivery risks, dependencies, capacity, and priorities across multiple teams and cross\\-functional stakeholders.
+* Experience evaluating emerging technologies, leading proofs of concept, and guiding their adoption based on business value, technical feasibility, risk, and operational readiness.
+* Experience leading globally distributed engineering teams and collaborating across Product, Architecture, Security, SRE, Infrastructure, QA, and Operations.
+* Strong understanding of distributed computing, cloud\\-native architecture, microservices, event\\-driven systems, and multi\\-region deployments.
+* Experience building or operating large\\-scale, mission\\-critical systems on Google Cloud using technologies such as GKE, Cloud Run, Pub/Sub, Cloud Spanner, Cloud SQL, Bigtable, or Dataflow.
+* Demonstrated success delivering secure, resilient, and high\\-quality solutions in a fast\\-paced environment with competing priorities and complex dependencies.
+* Experience applying CI/CD, DevOps, infrastructure\\-as\\-code, observability, SRE, capacity planning, incident management, and disaster\\-recovery practices.
+* Ability to communicate technical strategy, architecture decisions, delivery risks, and recommendations clearly to engineering teams, cross\\-functional partners, and senior leadership.
+* Experience integrating emerging technologies, including AI\\-assisted engineering capabilities, into software development practices while maintaining appropriate security, quality, and governance controls.
+
+ **Information for US Applicants**
+
+
+For roles located in the US, the estimated salary range for this position is $192,100\\.00 to $ 307,800\\.00 USD per year, which may include potential sales incentive payments (if applicable). Salary may vary depending on job\\-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity.Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401(k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.**Work Hours**
+
+
+Varies upon the needs of the department.
+
+**Travel Requirements**
+
+
+This position requires travel 5\\-10% of the time.
+
+**Mental/Physical Requirements**
+
+
+This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+**Visa is an EEO Employer**
+
+
+Qualified applicants will receive consideration for employment without regard to race, color religion, sex, national origin, sexual orientation, gender identity, disability or protect veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with the EEOC guidelines and applicable local law.","","https://www.indeed.com/cmp/Visa","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/860a54ecfd7d7cab270f291d2d877922","http://www.visa.com","","10,000+","more than $10B (USD)","Our Purpose is to... Uplift everyone, everywhere by being the best way to pay and be paid.","","","","","",""
+"in-47a02abf22a28921","indeed","https://www.indeed.com/viewjob?jk=47a02abf22a28921","https://careers.amd.com/jobs/92626/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Triton Compiler and Kernel Software Engineer","AMD","San Jose, CA, US","2026-09-29","","","","","","",False,"","","","","Overview:
+**ADVANCE YOUR CAREER. ADVANCE THE WORLD.**
+At AMD, we believe technology has the power to solve the world’s most important challenges. From advancing healthcare and scientific discovery to powering AI and the technologies people rely on every day, innovation at AMD is shaping the future.  
+
+Whether you’re designing next\\-gen processors, enabling AI breakthroughs, or bringing leading edge products to market, every role at AMD contributes to something bigger — technology that moves the world forward. Join us and, together, we’ll advance your career.
+Responsibilities:
+**THE ROLE:**
+We are seeking a Senior Triton Compiler and Kernel Engineer to advance Triton performance and capabilities on AMD GPUs.  
+
+Triton is an open\\-source language and compiler for developing high\\-performance GPU kernels in Python. It is a critical layer in the AI software stack, connecting frameworks and workloads to GPU hardware. Triton is strategic to AMD’s AI roadmap, and AMD is investing fully in making it a first\\-class platform for current and future AMD GPUs.  
+
+You will work across GPU architecture, compilers, kernels, multi\\-GPU communication, and AI frameworks while contributing to upstream Triton and AMD’s ROCm software stack. **THE PERSON:**
+The ideal candidate has strong experience in several of the following areas:* GPU architecture and programming
+* Compiler development and optimization
+* High\\-performance GPU kernels
+* Multi\\-GPU communication and collective operations
+* Distributed AI training and inference
+* AI workload and framework performance
+* Low\\-level performance analysis
+
+
+You can reason across the stack—from distributed AI algorithms and Triton programs to compiler transformations, communication libraries, generated instructions, and GPU hardware. **KEY RESPONSIBILITIES:*** Develop and optimize Triton compiler support for AMD GPUs.
+* Improve compiler lowering, optimization, scheduling, and code generation.
+* Create high\\-performance kernels for attention, GEMM, MoE, and other AI workloads.
+* Develop and optimize multi\\-GPU kernels and communication primitives.
+* Enable new AMD GPU and interconnect capabilities through effective Triton abstractions.
+* Analyze compute, memory, communication, occupancy, register usage, and generated code.
+* Resolve complex correctness and performance issues across single\\- and multi\\-GPU workloads.
+* Collaborate with GPU architecture, ROCm, PyTorch, and AI framework teams.
+* Contribute designs and implementations to upstream Triton and LLVM/MLIR.
+* Provide technical leadership, code reviews, and mentoring.
+
+ **PREFERRED EXPERIENCE:*** Experience with AMD GPU architecture and ROCm is highly desirable.
+* Experience optimizing kernels with Triton, HIP, CUDA, or GPU assembly.
+* Experience with Triton, LLVM, MLIR, or another optimizing compiler.
+* Knowledge of GPU execution models, memory hierarchies, synchronization, and instruction pipelines.
+* Experience with collective communication, distributed programming, and libraries such as RCCL or NCCL.
+* Understanding of communication topologies, interconnects, synchronization, and communication–computation overlap.
+* Familiarity with distributed training, inference, tensor parallelism, expert parallelism, or pipeline parallelism.
+* Experience using AI coding tools and autonomous agents to accelerate software development, debugging, benchmarking, and kernel performance tuning.
+* Familiarity with AI primitives, reduced\\-precision formats, and performance profiling.
+* Contributions to complex or open\\-source software projects.
+* Strong analytical, debugging, communication, and collaboration skills.
+
+ **ACADEMIC CREDENTIALS:*** Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent
+
+ **This role is not eligible for visa sponsorship.**  
+
+\\#LI\\-G11
+
+  
+
+\\#LI\\-HYBRID
+
+
+Qualifications:
+*Benefits offered are described:* AMD benefits at a glance. *AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee\\-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third\\-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.* *AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available* *here.* *This posting is for an existing vacancy.*","Computers And Electronics","https://www.indeed.com/cmp/Amd","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0d88c8b7ad753413e8139d134955d34d","http://www.amd.com/","Sunnyvale, California","5,001 to 10,000","$5B to $10B (USD)","","","","","","",""
+"in-06464059939f6050","indeed","https://www.indeed.com/viewjob?jk=06464059939f6050","https://jobs.ashbyhq.com/Lambda/343099e6-adec-4933-83e4-ad57d0510305?utm_source=xb6aQJ58Pe","Senior Software Engineer - Core Cloud Platform","Lambda","San Jose, CA, US","2026-09-29","fulltime","direct_data","yearly",230000.0,346000.0,"USD",True,"","","","","Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintelligence. One person, one GPU.
+
+
+If you'd like to build the world's best AI cloud, join us.
+
+* Note: This position requires presence in our San Francisco/San Jose/Bellevue office location 4 days per week; Lambda’s designated work from home day is currently Tuesday.
+
+**About the Role**
+
+
+As a Senior or Staff Software Engineer in Lambda’s Cloud Services Engineering organization, you will build and operate the distributed systems that power Lambda’s GPU cloud. Our teams own platform capabilities across compute control planes, managed Kubernetes, cloud APIs, identity and access, usage metering and billing, capacity and orchestration, reliability, and developer\\-facing infrastructure.
+
+
+You will turn large\\-scale GPU infrastructure into reliable, secure, customer\\-facing cloud services by building APIs, workflows, stateful controllers, schedulers, and operational tooling. You will be full cycle engineer, owning systems through design, deployment, on\\-call, incident follow\\-through, and continuous improvement.
+
+
+This role is a strong fit for engineers who enjoy cloud infrastructure, distributed systems, operational excellence, and solving ambiguous problems across software and infrastructure boundaries. Senior engineers lead complex work within a team or domain; Staff engineers additionally shape cross\\-team architecture and make other teams more effective.
+
+**What You’ll Do**
+
+* Design, build, and operate services, APIs, control planes, and platform capabilities that power Lambda’s AI cloud.
+* Solve distributed\\-systems problems involving state, consistency, concurrency, scheduling, failure recovery, and safe lifecycle management.
+* Own the full engineering lifecycle: problem framing, architecture, implementation, testing, rollout, observability, on\\-call, and continuous improvement.
+* Improve system availability, latency, throughput, efficiency, security, and operability as Lambda grows by orders of magnitude.
+* Turn incidents and near misses into durable engineering improvements, including better automation, testing, guardrails, and backstops.
+* Work across product, infrastructure, networking, storage, security, and SRE teams to resolve dependencies and deliver the right outcome for customers.
+* Use AI\\-assisted development tools with judgment: accelerate exploration and implementation while independently verifying correctness, security, and maintainability.
+* Contribute to technical standards, design and code reviews, and mentorship; at Staff level, lead cross\\-team architecture and raise the technical ceiling of the organization.
+
+**What we’re looking for**
+
+* 7 or more years of professional software engineering experience, or equivalent evidence of impact building production systems.
+* Depth in at least one general\\-purpose language, we work primarily in Go and Python, and candidates interview in the language they know best. We look for someone who can reason about concurrency, error handling, and testing in that language, not someone who has used it.
+* Experience designing, building, and operating backend services, distributed systems, infrastructure, or platform capabilities at meaningful scale.
+* Practical understanding of system design, data models, APIs, failure modes, performance, and the tradeoffs required to run reliable software in production.
+* A track record of owning complex work through delivery and operation, including testing, staged rollout, monitoring, incident response, and root\\-cause improvement.
+* Proven track record of aligning cross functional partners and gaining consensus around decisions and tradeoffs.
+
+**Nice to Have**
+
+* 2\\+ years of experience building cloud services or platform infrastructure, or operating large\\-scale production systems on AWS, GCP, Azure, or a comparable cloud platform.
+* Experience with Kubernetes, container orchestration, schedulers, controllers, or cloud control\\-plane systems.
+* Depth in one or more cloud infrastructure or platform domains, such as compute, storage, networking, identity and access, developer platforms, container orchestration, usage metering and billing, databases, or fleet management.
+* Experience with infrastructure automation, durable workflow systems, event\\-driven architectures, or infrastructure as code.
+* Experience designing highly available, multi\\-region, or rapidly scaling distributed systems.
+* Familiarity with GPU infrastructure, HPC environments, or large\\-scale AI/ML training and inference workloads.
+
+**Salary Range Information**
+
+
+The annual salary range for this position has been set based on market data and other factors. However, a salary higher or lower than this range may be appropriate for a candidate whose qualifications differ meaningfully from those listed in the job description.
+
+**About Lambda**
+
+* Founded in 2012, with 500\\+ employees, and growing fast
+* Our investors notably include TWG Global, US Innovative Technology Fund (USIT), Andra Capital, SGW, Andrej Karpathy, ARK Invest, Fincadia Advisors, G Squared, In\\-Q\\-Tel (IQT), KHK \\& Partners, NVIDIA, Pegatron, Supermicro, Wistron, Wiwynn, Gradient Ventures, Mercato Partners, SVB, 1517, and Crescent Cove
+* We have research papers accepted at top machine learning and graphics conferences, including NeurIPS, ICCV, SIGGRAPH, and TOG
+* Our values are publicly available: https://lambda.ai/careers
+* We offer generous cash \\& equity compensation
+* Health, dental, and vision coverage for you and your dependents
+* Wellness and commuter stipends for select roles
+* 401k Plan with 2% company match (USA employees)
+* Flexible paid time off plan that we all actually use
+
+**Equal Opportunity Employer**
+
+
+Lambda is an Equal Opportunity employer. Applicants are considered without regard to race, color, religion, creed, national origin, age, sex, gender, marital status, sexual orientation and identity, genetic information, veteran status, citizenship, or any other factors prohibited by local, state, or federal law.
+
+
+Compensation Range: $230K \\- $346K","","https://www.indeed.com/cmp/Lambda-1d6feb87","","","","","","","","","","","",""
+"in-6af035d479368cba","indeed","https://www.indeed.com/viewjob?jk=6af035d479368cba","https://jobs.ashbyhq.com/ddn/16274eeb-f122-4114-a47c-3ce194c9c7ad?utm_source=56xdpNy2B3","Senior Staff Software Engineer, S3","DDN","Santa Clara, CA, US","2026-09-29","fulltime","","","","","",False,"","","","","We are seeking a Senior Staff Software Engineer for the ongoing development of a S3 compliant high performance file system. The candidate must have proven development experience with technical leadership qualities, effective communication skills and is a self\\-starter. In addition, the candidate must collaborate with other teams and individuals worldwide to quickly learn DDN products/technology/setup \\& configuration. The candidate must be able to leverage and integrate the monitoring, health\\-check and alerting aspects around the product.
+
+**Key Responsibilities:**
+-------------------------
+
+* Maintain, extend, and improve our S3 implementation.
+* Design and develop in C/C\\+\\+ under tight deadlines with minimal supervision
+* Define and articulate technical designs with the appropriate details
+* Full application development from design to development to testing to deployment
+* Participate in technical reviews throughout the course of development
+* Architecture and troubleshooting of system level components, especially the file system and related storage system components.
+* Undertake research based technical tasks: Define research approach, document results and derive conclusions. Should be able to design a solution based on the research conducted
+* Mentor junior developers
+* Support product deployment and production defect resolution in a timely manner
+
+**Requirements:**
+-----------------
+
+* Accountable and highly motivated with solid people skills
+* 12\\+ years’ experience system software development and complex problem resolution.
+* Expert knowledge of the following programming languages: C/C\\+\\+
+* Excellent Linux development and deployment skills including but not limited to file system development.
+* Full understanding of OS principles and architecture of Kernel procedures.
+* Broad range of experience with open\\-source development toolchain like gcc, gdb, g\\+\\+, git
+* Experience designing and developing parallel program
+* Good communication skills (verbal and written English).
+* Understanding of Linux File Systems
+* Knowledge of user space IO frameworks such as Fuse, SPDK
+
+**Nice to have:**
+-----------------
+
+* Strong understanding of RDMA network principles, libfabric, zero\\-copy, verbs, etc.
+* Knowledge of performance engineering.
+* Experience working with Scrum Agile
+* Experience of complex network programming, TCP/IP or RDMA.","","https://www.indeed.com/cmp/Ddn-7","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6a25874ee0e1636be95ea111ba1ecf00","http://www.ddn.com","Chatsworth, CA","501 to 1,000","$100M to $500M (USD)","","","","","","",""
+"in-446d885b0699558a","indeed","https://www.indeed.com/viewjob?jk=446d885b0699558a","https://jobs.ashbyhq.com/dedalus-labs/0974c2d3-2e49-4a09-b6ad-e0b1c5223f2f?utm_source=v4J1J8kLmx","Software Engineer, Infrastructure & Performance","","San Francisco, CA, US","2026-09-29","fulltime","direct_data","yearly",120000.0,250000.0,"USD",True,"","","","","**About the role**
+------------------
+
+
+Dedalus Labs builds persistent computers for AI agents. Our flagship product, Dedalus Machines, gives agents an isolated environment where they can run software, keep files and state, and work over time.
+
+
+We're looking for an infrastructure engineer who's bothered by a slow build, an unexplained latency spike, or a workflow that makes engineers do the same work twice. You want to understand where the time went. Then you want to fix it, measure the improvement, and make sure everyone who uses that system benefits from it.
+
+
+At a small startup, those details affect how quickly the whole company can move. A build that wastes ten minutes wastes them repeatedly. A confusing API slows every product built on it. A deployment that needs someone to supervise it interrupts work elsewhere. You'll seek out these problems across our systems and codebase, including the ones people have learned to tolerate. Your work can bring product releases and customer commitments forward by weeks, and over time, months.
+
+
+You'll work directly with our CTO and engineers, with substantial freedom to investigate, experiment, and choose an approach. We want someone who takes pride in the craft of software engineering and cares about the systems they'll leave for the next person. That means useful abstractions, clear failure behavior, tests that establish the right guarantees, and documentation that explains the decisions.
+
+**What you'll work on**
+-----------------------
+
+**Make the development loop faster.** Profile builds, tests, CI queues, artifact transfers, and local workflows. Find repeated work, unnecessary dependencies, poor scheduling, and cache misses. Follow a bottleneck into a compiler, linker, filesystem, network, or upstream dependency when the evidence takes you there. Establish a baseline, make the change, and verify the result on a representative workload.
+
+
+You'll use and improve our open\\-source tooling: Bessemer (BSMR), our build system, and Hollywood, which generates GitHub Actions from typed TypeScript definitions and runs actions locally. This includes working on the tools themselves when their implementation limits what we can do. Experience with Buck2, Bazel, Blaze, remote execution, or build cache design is particularly relevant.
+
+**Build platforms other engineers can build on.** Design APIs, controllers, CLIs, and services that support multiple internal products and consumers. Think through resource lifecycles, concurrency, cancellation, permissions, and failure reporting. Work with the engineers using those interfaces, understand their constraints, and make common operations straightforward without hiding important system behavior.
+
+**Make delivery reliable and understandable.** Improve CI/CD, GitOps, environment provisioning, staging, production rollout, and recovery. Connect the source change, build inputs, artifact, and running software so engineers can trace a release and diagnose a failure. Instrument the path with useful metrics, logs, and traces. Use incidents and recurring manual work to identify what needs a software fix.
+
+**Work with hardware we control.** We have an in\\-office homelab where we test and debug on real machines and networks we control. Depending on your strengths, you can help assemble, provision, and maintain machines, configure networking, and build test infrastructure so engineers can reproduce failures and measure changes under conditions we understand.
+
+**You'd be a good fit if**
+--------------------------
+
+* A problem keeps your attention when the first few explanations turn out to be wrong. You read source, build a smaller reproduction, ask a better question, or collect another trace. You ask for help when it will move the investigation forward and keep responsibility for the outcome.
+* You notice slowness and repeated effort even outside your immediate assignment. You investigate proactively and can explain why fixing it matters to the people using the system.
+* You enjoy the last 20% of performance work, including the part that takes 80% of the effort. You can also judge when that effort is worth spending and when a deadline calls for a smaller, complete improvement.
+* You're detail oriented and a little perfectionist. You care about API names, error messages, correctness, performance, and the next engineer's ability to understand your work. You can make a decision, finish it, and ship.
+* You respect the craft and stay open to better ways of practicing it. You use modern AI coding tools to accelerate exploration, implementation, testing, and review. You understand the resulting code and take responsibility for its behavior.
+* You work well with ambiguity. You can turn an incomplete goal into a concrete problem, agree on the constraints, and choose a useful next step. You enjoy the freedom to tinker and can turn an experiment into something the team depends on.
+
+**Experience that helps**
+-------------------------
+
+
+You should have strong software engineering skills and experience building or operating infrastructure that other people rely on. We're particularly interested in depth in Go, Rust, C\\+\\+, or another systems language, practical Linux debugging, and thoughtful API design. You'll also work with TypeScript in our tooling.
+
+
+Build systems, CI/CD, GitOps, Kubernetes, observability, and infrastructure as code are relevant areas of experience. Familiarity with Terraform is useful. Tell us where you've gone deep and what you learned from operating the system after you built it.
+
+
+Hands\\-on hardware and networking experience is a plus. You may have assembled and maintained machines, installed storage or network cards, provisioned Linux, or configured switches, routing, and VLANs. We're interested in people who understand how the parts fit together and can trace a problem across application code, the operating system, storage, and the network. Deeper experience with Ethernet, SFP\\+/QSFP optics and direct\\-attach cables, RDMA, or RoCE is useful additional depth.
+
+**This role may be a poor fit if**
+----------------------------------
+
+* You need a complete specification and a fixed twelve\\-month roadmap before you can make progress.
+* You prefer an assignment limited to one tool or layer and find it frustrating to follow a problem across software, infrastructure, and hardware.
+* You routinely accept slow or manual workflows because they've always worked that way.
+* You keep polishing after the agreed deadline or declare a performance improvement before measuring it.
+
+**Location and compensation**
+-----------------------------
+
+
+This is a full\\-time, in\\-person role in San Francisco. The annual base salary range is $120,000\\-$250,000 USD, depending on relevant experience and role scope. Relocation assistance and visa sponsorship are available.
+
+**Show us your work**
+---------------------
+
+
+Tell us about a system you improved because something about it bothered you. What did you notice? How did you find the cause? What changed, how did you measure it, and what did you choose to leave alone?
+
+
+A code sample, technical write\\-up, open\\-source contribution, or homelab project is welcome. A description of a private production project works too. Please keep confidential details out of your application. We'd like to understand your judgment, your persistence, and the care you put into the result.
+
+
+Explore our open\\-source repositories, particularly Hollywood and Bessemer (BSMR), and star them if you'd like to follow their development. We especially welcome substantive contributions: a useful bug fix, a measured performance improvement, a thoughtful API change, or tests that establish an important guarantee. Start by discussing the problem and proposed scope with the maintainers.
+
+
+Working through an issue, implementation, and code review gives us a direct sense of how you investigate, explain your decisions, and respond to feedback. It also gives you a chance to experience how we work and whether you'd enjoy building with us. Contributing is an optional way to show your work, and we're equally interested in the work you've already done.
+
+
+Compensation Range: $120K \\- $250K","","","","","","","","","","","","","",""
+"in-905d9b98c75c09bc","indeed","https://www.indeed.com/viewjob?jk=905d9b98c75c09bc","https://jobs.ashbyhq.com/Hippocratic%20AI/bd4526de-f05e-49e4-95fe-a97f02b856ec?utm_source=gY9QDdnblQ","Senior Fullstack Engineer, Reinforced Learning","Hippocratic AI","Menlo Park, CA, US","2026-09-29","fulltime","","","","","",False,"","","","people@hippocraticai.com","**About The Role**
+------------------
+
+
+As a Fullstack Engineer at Hippocratic AI, you will play a pivotal role in shaping the future of AI\\-powered healthcare voice agents through the development of our Generative AI SaaS products. You’ll work across the entire technology stack—front\\-end and back\\-end to deliver intelligent, voice\\-first healthcare solutions that are safe, scalable, and transformative.
+
+
+This is a highly collaborative role where you will partner with AI researchers, product managers, designers, and healthcare professionals to translate complex requirements into performant, secure, and accessible digital experiences. From crafting seamless mobile interactions to building robust APIs and designing user\\-facing dashboards, your work will directly impact the way patients and providers engage with AI in clinical and consumer health settings.
+
+
+We’re looking for experienced engineers who are passionate about innovation, thrive in fast\\-paced environments, and are eager to apply their full stack skills to solve real\\-world healthcare challenges with cutting\\-edge AI technologies.
+
+**What you’ll do**
+------------------
+
+* Architect and scale mission\\-critical B2B SaaS products using TypeScript, React, Material UI, and Python/Flask to power seamless, AI\\-driven clinical voice experiences.
+* Partner with cross\\-functional engineering teams to deliver high\\-performance, cross\\-platform mobile apps using Flutter and React Native.
+* Translate complex healthcare needs and business vision into elegant, production\\-ready technical architecture alongside PMs, designers, and domain experts.
+* Build highly available, reusable front\\-end and back\\-end frameworks that elevate system performance and deliver intuitive user journeys.
+* Champion engineering excellence by conducting high\\-impact code reviews, mentoring peers, and establishing modern development standards.
+* Evaluate and integrate cutting\\-edge AI tools and technologies to keep our product suite ahead of industry benchmarks.
+* Proactively diagnose and resolve complex technical bottlenecks to guarantee maximum reliability and operational uptime.
+* Drive rapid iteration and continuous delivery within an agile framework across sprint planning, stand\\-ups, and retrospectives.
+
+**Location Requirement**
+------------------------
+
+
+We believe the best ideas happen together. To support fast collaboration and a strong team culture, this role is expected to be in our Menlo Park office five days a week, unless otherwise specified..
+
+**What you’ll bring**
+---------------------
+
+### **required**
+
+* Bachelor's degree in Computer Science, Engineering, or related field.
+* 5\\+ years of professional experience as a full stack developer, with a focus on Typescript/React, and Python, Ruby, or Node backends.
+* Experience building RESTful APIs and integrating with third\\-party services.
+* Proficiency in database design and management using SQL and Postgres databases.
+* Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+* Strong problem\\-solving skills and the ability to thrive in a fast\\-paced, collaborative environment.
+* Excellent communication skills and the ability to effectively collaborate with cross\\-functional teams.
+* Familiarity with agile development methodologies such as Scrum or Kanban.
+
+### **Preferred:**
+
+* Experience developing and publishing cross platform mobile applications using Flutter, ReactNative, or native iOS/Android SDKs
+* Professional experience with Flask Python servers
+* Knowledge of Terraform with AWS services
+
+  
+
+If you are a talented full stack developer with a passion for user\\-facing experiences, innovation, and a desire to work on cutting\\-edge B2B products, we encourage you to apply and join our dynamic team at Hippocratic AI. Please submit your resume and portfolio showcasing your relevant experience and contributions. We look forward to hearing from you!
+
+**Why Join Hippocratic AI**
+---------------------------
+
+**Reinvent healthcare with AI that puts safety first.** We’re building the world’s first healthcare‑only, safety‑focused LLM — a breakthrough platform designed to transform patient outcomes at a global scale. This is category creation.
+
+**Work with the people shaping the future.** Hippocratic AI was co‑founded by CEO Munjal Shah and a team of physicians, hospital leaders, AI pioneers, and researchers from institutions like El Camino Health, Johns Hopkins, Washington University in St. Louis, Stanford, Google, Meta, Microsoft, and NVIDIA.
+
+**Backed by the world’s leading healthcare and AI investors.** We recently raised a $126M Series C at a $3\\.5B valuation, led by Avenir Growth, bringing total funding to $404M with participation from CapitalG, General Catalyst, a16z, Kleiner Perkins, Premji Invest, UHS, Cincinnati Children’s, WellSpan Health, John Doerr, Rick Klausner, and others.
+
+**Build alongside the best in healthcare and AI.** Join experts who’ve spent their careers improving care, advancing science, and building world‑changing technologies — ensuring our platform is powerful, trusted, and truly transformative.
+
+**Equal Opportunity**
+---------------------
+
+
+Hippocratic AI is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, national origin, sex, age, disability, sexual orientation, gender identity or expression, genetic information, military or veteran status, or any other characteristic protected by applicable law. We are committed to building a team that reflects the patients we serve. We actively encourage applications from candidates of all backgrounds. If you require accommodations during the hiring process, please contact people@hippocraticai.com.
+
+***Please be aware of recruitment scams impersonating Hippocratic AI. All recruiting communication will come from @******hippocraticai.com*** ***email addresses. We will never request payment or sensitive personal information during the hiring process.***","","https://www.indeed.com/cmp/Hippocratic-Ai","","","","","","","","","","","",""
+"in-ff0ddbb5d7f2c128","indeed","https://www.indeed.com/viewjob?jk=ff0ddbb5d7f2c128","https://jobs.lever.co/zoox/1de7207d-2d77-44c8-b875-06b78b98e69c?lever-source=Indeed","Senior Software Engineer, Continuous Deployment","Zoox","Foster City, CA, US","2026-09-29","fulltime","direct_data","yearly",219000.0,271000.0,"USD",False,"","","","","Zoox is developing state\\-of\\-the\\-art autonomous vehicle software for our purpose\\-built vehicle. We believe that developing the end\\-to\\-end product will not only help us scale our services but will also result in a superior customer experience.
+
+
+
+In this role, you will build and operate the continuous deployment platform that carries changes from merge to production. You will own both the platform and its adoption: building the paved path that every production change travels on and working directly with application teams to move them onto it. We are looking for an engineer who is opinionated about what the right path looks like, who has the judgment to decide where to hold the line and where to leave room for the team, and who has a strong bias toward execution. This is a critical role to remove friction from our release process, improve the deployment experience for everyone in the software organization, and ultimately help us scale our autonomous vehicle fleet to more riders and more cities.
+
+
+
+### **In this role, you will:**
+
+* Own the reliability and operational excellence of our deployment platform
+* Build and own the paved path for continuous delivery, and own the safety net that makes the platform trustworthy
+* Work cross\\-functionally with application teams and SRE to move services onto the paved path, turning recurring friction into platform capability rather than one\\-off support
+* Set the technical bar for how code is shipped safely to production, and mentor the engineers around you
+
+### **Qualifications**
+
+* 5\\+ years of software engineering experience, including significant experience in platform, infrastructure, or production operations
+* Hands\\-on experience with a continuous deployment system in a large organization, Harness preferred; ArgoCD, Spinnaker or other relevant systems
+* Hands\\-on experience with Kubernetes and container\\-based deployments
+* Expertise with programming languages like Python, Go, or Bash, and with ""infrastructure as code"" tools like Terraform and Helm
+* Excellent customer\\-facing skills, turning fuzzy problems into concrete plans with measurable outcomes, driving delivery, and onboarding customers
+* Judgment to pick the problem worth solving — you self\\-direct when the problem statement has not been written yet, and can tell a loud request from a high\\-impact one
+
+### **Bonus Qualifications**
+
+* Building a multi\\-tenant internal platform that many teams depend on
+* Experience migrating many teams off a legacy system onto a new one
+
+There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights. A sign\\-on bonus may be offered as part of the compensation package. The listed range applies only to the base salary. Compensation will vary based on geographic location and level. Leveling, as well as positioning within a level, is determined by a range of factors, including, but not limited to, a candidate's relevant years of experience, domain knowledge, and interview performance. The salary range listed in this posting is representative of the range of levels Zoox is considering for this position.
+
+
+
+Zoox also offers a comprehensive package of benefits, including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long\\-term care insurance, long\\-term and short\\-term disability insurance, and life insurance.
+
+
+About Zoox
+
+
+
+Zoox is developing the first ground\\-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility\\-as\\-a\\-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast\\-moving and highly execution\\-oriented team.
+
+
+
+Follow us on LinkedIn
+
+
+
+A Final Note: You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.
+
+
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Zoox","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/948a2d1c8225adc80183f8af89f49cae","https://zoox.com","Foster City, CA","1,001 to 5,000","Decline to state","Zoox was founded to make personal transportation safer, cleaner, and more enjoyable—for everyone.","","","","","",""
+"in-2a12d742aa590145","indeed","https://www.indeed.com/viewjob?jk=2a12d742aa590145","https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b?lever-source=Indeed","Software Engineer - Embedded Linux Operating Systems","Zoox","Foster City, CA, US","2026-09-29","fulltime","direct_data","yearly",195000.0,242000.0,"USD",False,"","","","accommodations@zoox.com","Zoox's Robot Software Infrastructure team is seeking a passionate software engineer to help develop and advance the common performant operating system that powers several devices on our Robotaxi including onboard AI systems running Autonomy software. This team develops platform\\-level software and services, including custom operating systems that enable complex, hardware\\-accelerated workloads critical for autonomous driving on automotive\\-grade hardware.
+
+
+
+We work closely with cross\\-functional teams—including other software developers, hardware engineering, release management, manufacturing and operations—to support vehicle development and deployment at scale. If you are excited to explore a broad problem space and are mindful of how components fit within a larger system, you may be a great fit!
+
+
+
+### **In this role, you will:**
+
+* Design, develop, and maintain the operating system platform that powers various on\\-bot devices and applications
+* Configure and manage embedded Linux build systems (e.g., Yocto) and bootloader processes (e.g., U\\-Boot) to ensure reliable system startup and maintenance
+* Develop and optimize device drivers and kernel\\-space components using C, C\\+\\+, or Rust to meet performance and reliability requirements
+* Collaborate cross\\-functionally to support seamless integration and delivery of the OS platform, triage issues, support new hardware bring\\-up and manufacturing functions
+
+
+### **Qualifications**
+
+* 4\\+ years delivering embedded software for production systems
+* Have a deep understanding of Linux, build systems like Yocto, and bootloaders like U\\-Boot
+* Be familiar with Linux init systems (e.g., systemd), containerization concepts (e.g., chroot, cgroups, Linux namespaces), and filesystems
+* Understand device drivers and kernel\\-space code and proficiency in a language without automatic memory management (e.g., C or C\\+\\+), and in multiple scripting languages like bash and Python
+* Strong written and verbal communication skills along with a bachelor’s degree or equivalent practical experience
+
+### **Bonus Qualifications**
+
+* Experience with embedded Linux in a robotics application
+* Familiarity with security software: PKI, secure boot, OTA software update, hardware key storage, etc.
+* Familiarity with Nvidia GPUs, Nvidia Thor/Orin, Cuda, TRT, etc.
+
+**Base Salary Range**
+
+There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights. A sign\\-on bonus may be offered as part of the compensation package. The listed range applies only to the base salary. Compensation will vary based on geographic location and level. Leveling, as well as positioning within a level, is determined by a range of factors, including, but not limited to, a candidate's relevant years of experience, domain knowledge, and interview performance. The salary range listed in this posting is representative of the range of levels Zoox is considering for this position.
+
+Zoox also offers a comprehensive package of benefits, including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long\\-term care insurance, long\\-term and short\\-term disability insurance, and life insurance.**About Zoox**
+Zoox is developing the first ground\\-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility\\-as\\-a\\-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast\\-moving and highly execution\\-oriented team.  
+
+Follow us on LinkedIn **Accommodations**
+If you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter. ***A Final Note:****You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.*
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","","https://www.indeed.com/cmp/Zoox","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/948a2d1c8225adc80183f8af89f49cae","https://zoox.com","Foster City, CA","1,001 to 5,000","Decline to state","Zoox was founded to make personal transportation safer, cleaner, and more enjoyable—for everyone.","","","","","",""
+"in-6c68b9e9782b219c","indeed","https://www.indeed.com/viewjob?jk=6c68b9e9782b219c","https://click.appcast.io/t/a_TZi579wxo_zSiIccqpJscQGaqI1ZjAEgC7UgwZxNE=","Distinguished, Software Engineer","Walmart","Sunnyvale, CA, US","2026-09-29","","direct_data","yearly",169000.0,338000.0,"USD",False,"","","","","**Position Summary...**
+-----------------------
+
+**What you'll do...**
+---------------------
+
+**Role summary:**  
+
+The Distinguished Software Engineer is the senior\\-most technical leader for Walmart International Search \\& Personalization, accountable for the architecture, technical strategy, and engineering bar of the discovery platforms that serve customers across Canada, Mexico, Chile, and other global markets. This role defines the multi\\-year technical vision for AI\\-native search and personalization, spanning data pipelines, retrieval, ranking, recommendations, and generative and agentic experiences, and ensures these systems scale reliably across markets, languages, and catalogs. Operating as a force multiplier, the Distinguished Engineer shapes the direction of Principal engineers and engineering leaders, resolves the hardest cross\\-cutting architectural problems, and represents international discovery in enterprise technical forums across Walmart Global Tech. The role combines deep hands\\-on technical judgment with business acumen, translating customer and market outcomes into durable platform investments. This leader embodies Walmart's values of respect, integrity, and continuous learning while raising the technical ambition of the entire organization.
+  
+
+**About the team:**  
+
+Walmart International Search \\& Personalization builds the intelligent discovery experiences that help millions of customers find, compare, and engage with products across global markets. The organization spans ML Engineering, Data Science, Data Operations, and Platform Engineering, owning the full discovery ecosystem: signal and catalog data pipelines, feature and dataset delivery, query understanding, semantic and hybrid retrieval, learning to rank, multi\\-tenant recommendations, personalization, experimentation, and scalable ML/AI infrastructure. Our platforms are designed to be multi\\-market by default, supporting diverse languages, assortments, and customer behaviors from a shared foundation. Engineers here tackle hard problems in distributed systems, large\\-scale machine learning, and generative AI, and the team is moving decisively toward AI\\-native, agentic discovery. We value technical depth, data\\-driven decisions, rigorous experimentation, and the collaboration required to turn research\\-grade ideas into production systems that measurably improve customer engagement and business outcomes.  
+
+  
+
+**What you'll do:**
+* Define and own the multi\\-year technical strategy and reference architecture for International Search \\& Personalization, aligning data, ML, and platform investments to business and customer outcomes across markets.
+* Architect the next generation of AI\\-native discovery, including LLM\\-powered query understanding, semantic and hybrid retrieval, generative and agentic shopping experiences, and real\\-time personalization, balancing quality, latency, and cost at global scale.
+* Set the architectural direction for multi\\-tenant, multi\\-market platforms so new markets, languages, and use cases launch on shared foundations rather than bespoke builds.
+* Establish organization\\-wide engineering standards for system design, ML lifecycle and MLOps, data quality and lineage, model evaluation, responsible AI, observability, and resilience, and hold the bar through architecture and design reviews.
+* Lead resolution of the most complex cross\\-cutting technical challenges, including critical incidents, performance and cost bottlenecks, and platform modernization, driving root cause to systemic fixes.
+* Mentor and grow Principal and Senior engineers, building a deep technical leadership bench and a culture of craftsmanship, experimentation, and continuous learning.
+* Partner with engineering, product, data science, and business leaders to shape roadmaps, frame build versus buy and platform versus product decisions and communicate technical tradeoffs clearly to executive audiences.
+* Represent Walmart International in enterprise architecture forums, influence shared Walmart Global Tech platforms, and contribute to Walmart's external technical reputation through patents, publications, and industry engagement.
+
+  
+
+  
+
+  
+
+**What you'll bring:**
+* 15\\+ years of experience in the design and development of highly scalable distributed applications and platforms.
+* Distinguished track record architecting and operating large\\-scale, cloud\\-native distributed systems for search, recommendations, personalization, or ads serving hundreds of millions of users.
+* Proven ability to set technical direction across multiple teams and organizations, influencing without authority and driving adoption of shared architectures and standards.
+* Demonstrated success developing senior technical talent and elevating engineering practices across a large organization.
+* Exceptional communication skills, with the ability to distill complex technical strategy into clear business narratives for executives and deep technical guidance for engineers.
+
+
+**Technical expertise:**
+* **Search and retrieval:** Deep hands\\-on experience with semantic and hybrid search engines such as Vespa, Elasticsearch, OpenSearch, or Solr, including tensor ranking, multi\\-phase ranking, and combining lexical (BM25\\) with dense vector retrieval.
+* **Vector search and embeddings:** Approximate nearest neighbor techniques (HNSW, IVF, product quantization) and libraries such as FAISS, ScaNN, or Milvus; dense and late\\-interaction retrieval models such as bi\\-encoders, two\\-tower models, and ColBERT; multilingual embedding models for cross\\-market search.
+* **Ranking and relevance:** Learning to rank with LambdaMART, XGBoost, or LightGBM; neural and cross\\-encoder rerankers; query understanding including intent classification, query rewriting, spell correction, and entity recognition; relevance evaluation using NDCG, MRR, and human judgment programs.
+* **Recommendations and personalization:** Candidate generation and ranking architectures, sequential and session\\-based models (SASRec, BERT4Rec, transformers), graph\\-based recommenders, real\\-time user and context features, and contextual bandits for explore and exploit.
+* **Generative and agentic AI:** Production experience with LLMs for query understanding, conversational and agentic shopping, and content generation; retrieval\\-augmented generation; fine\\-tuning (LoRA, distillation); LLM serving and optimization with vLLM, TensorRT\\-LLM, or Triton; agent frameworks such as LangGraph; and rigorous LLM evaluation, guardrails, and cost management.
+* **ML platforms and MLOps:** PyTorch and TensorFlow; distributed training with Ray or Horovod; feature stores such as Feast; model lifecycle tooling such as MLflow, Kubeflow, or Vertex AI; low\\-latency online inference and model monitoring for drift and quality.
+* **Data engineering:** Batch and streaming pipelines with Spark, Kafka, and Flink; orchestration with Airflow; lakehouse and warehouse platforms such as BigQuery, Delta Lake, or Iceberg; data quality, lineage, and SLA ownership.
+* **Experimentation:** Large\\-scale A/B testing, interleaving for ranking evaluation, variance reduction techniques such as CUPED, and online and offline metric alignment.
+* **Infrastructure and languages:** Kubernetes, containerized microservices, and cloud platforms (Azure, GCP, or AWS); CI/CD, observability, and resilience engineering; strong programming skills in Python, Java, Scala, Go, or C\\+\\+.
+* **Multi\\-market platforms:** Experience building multi\\-tenant or multi\\-market systems, including multilingual search, localization, and market\\-specific catalog and assortment handling, is highly valued..
+
+  
+
+  
+
+  
+
+  
+
+At Walmart, we offer competitive pay as well as performance\\-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company\\-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short\\-term and long\\-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart\\-paid education benefit program for full\\-time and part\\-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short\\-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+  
+
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+  
+
+For information about benefits and eligibility, see One.Walmart.
+  
+
+The annual salary range for this position is $169,000\\.00 \\- $338,000\\.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
+  
+
+* Stock
+
+
+ㅤ
+
+
+ㅤ
+
+
+ㅤ
+
+
+ㅤ
+
+
+‎
+
+**Minimum Qualifications...**
+-----------------------------
+
+*Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.*
+
+Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 6 years’ experience in software engineering or related area.  
+
+Option 2: 8 years’ experience in software engineering or related area.**Preferred Qualifications...**
+-------------------------------
+
+*Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.*
+
+
+Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years' experience in software engineering or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2\\.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.**Primary Location...**
+-----------------------
+
+
+815 Eleventh Ave, Sunnyvale, CA 94089\\-4731, United States of America
+Walmart and its subsidiaries are committed to maintaining a drug\\-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.","","https://www.indeed.com/cmp/Walmart","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9c80885fef258045d6217203814f0e34","https://careers.walmart.com","Bentonville, AR","10,000+","more than $10B (USD)","Headquartered in Bentonville, Arkansas, Walmart is a multinational corporation that operates the largest chain of department stores globally.","","","","","",""
+"in-6cc98dcfa99e5ee9","indeed","https://www.indeed.com/viewjob?jk=6cc98dcfa99e5ee9","https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Cupertino-CA/Sr-Silicon-Bring-Up-and-Integration-Engineer_R72971","Sr Silicon Bring-Up and Integration Engineer","Blue Origin","Cupertino, CA, US","2026-09-29","fulltime","direct_data","yearly",230398.0,322556.0,"USD",True,"","","","EEOCompliance@blueorigin.com","Application close date:
+
+
+Applications will be accepted on an ongoing basis until the requisition is closed.
+At Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We’re working to develop reusable, safe, and low\\-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight!
+
+
+Blue Origin is pioneering the future of space\\-based communications with TeraWave, a revolutionary satellite communications network designed to deliver symmetrical data speeds of up to 6 Tbps anywhere on Earth. This multi\\-orbit constellation will consist of optically interconnected satellites in low Earth orbit (LEO) and medium Earth orbit (MEO), providing enterprise\\-grade connectivity for critical operations worldwide.
+**Job Description**
+-------------------
+
+As a Sr Silicon Bring\\-Up and Integration Engineer, you will be a key hands\\-on member of the team responsible for bringing complex custom SoCs and ASICs from pre\\-silicon development through physical silicon bring\\-up, validation, and system integration.
+
+
+You will develop low\\-level C/C\\+\\+ software, diagnostics, and Python\\-based test infrastructure used to configure, control, exercise, and validate custom silicon. You will work closely with ASIC design, verification, firmware, board, RF/DSP, and system engineering teams to support first\\-silicon bring\\-up, characterize device behavior, and debug complex hardware/software integration issues.
+
+
+This role is highly technical and hands\\-on and requires the ability to work across silicon hardware, low\\-level software, lab instrumentation, and system\\-level debugging.
+
+
+**Special Mentions**
+--------------------
+
+* Relocation provided
+* Travel expected up to 20% of the time
+* Interviews will include a technical assessment
+* This role is based onsite in San Diego, Kent, WA, or Austin, TX. A temporary remote work exception is approved while our San Diego and Austin sites are being developed.
+
+**Responsibilities Include but Are Not Limited To**
+---------------------------------------------------
+
+* **Silicon Bring\\-Up:** Perform first\\-silicon power\\-on, initialization, configuration, functional bring\\-up, and debugging of custom SoCs and ASICs.
+* **Low\\-Level Silicon Software:** Develop C/C\\+\\+ software, firmware, diagnostics, and Python\\-based test infrastructure used to configure, control, exercise, and validate custom silicon.
+* **Pre\\-Silicon Readiness:** Develop bring\\-up software, test sequences, register\\-access utilities, diagnostics, and validation capabilities prior to silicon availability using simulation, emulation, FPGA prototypes, or other available pre\\-silicon platforms.
+* **HW/SW Integration:** Integrate and debug low\\-level software and firmware with silicon hardware, including initialization sequences, clocks and resets, memory interfaces, peripherals, data paths, and high\\-speed interfaces.
+* **Post\\-Silicon Validation:** Develop and execute functional, performance, stress, and corner\\-condition tests to validate silicon behavior against design and system requirements.
+* **Silicon Characterization:** Support characterization across voltage, temperature, frequency, operating modes, and silicon process variation.
+* **Complex Debug:** Investigate and root\\-cause failures spanning silicon hardware, RTL, firmware/software, boards, clocks, power, interfaces, and system\\-level behavior.
+* **Lab Automation:** Develop automated test infrastructure for DUT configuration, lab instrumentation, data collection, regression testing, and analysis.
+* **Interface Bring\\-Up:** Bring up and debug low\\-speed and high\\-speed interfaces such as JTAG, SPI, I2C, UART, PCIe, Ethernet, SerDes, DDR/LPDDR, and custom chip\\-to\\-chip interfaces as applicable.
+* **Bring\\-Up Hardware Support:** Define requirements for evaluation boards, fixtures, sockets, instrumentation, and debug capabilities required for silicon bring\\-up and validation, and work closely with board\\-design teams on their implementation.
+* **Cross\\-Functional Integration:** Collaborate closely with ASIC architecture/design, verification, firmware/software, RF/DSP, board, system, manufacturing, and test teams to resolve silicon integration issues.
+* **Silicon Maturation:** Support issues from initial engineering samples through characterization, validation, and production readiness, including verification of hardware and software fixes across silicon revisions.
+
+**Minimum Qualifications**
+--------------------------
+
+* 7\\+ years of experience in ASIC/SoC bring\\-up, post\\-silicon validation, embedded systems, silicon integration, or closely related fields.
+* Bachelor’s degree in Electrical Engineering, Computer Engineering, Computer Science, or a related technical field.
+* Hands\\-on experience with ASIC or SoC bring\\-up, post\\-silicon validation, or low\\-level hardware/software integration.
+* Strong C/C\\+\\+ programming experience for low\\-level hardware control, embedded software, firmware, or silicon diagnostics.
+* Strong Python or equivalent scripting experience for test automation, instrumentation, and data analysis.
+* Strong understanding of SoC architecture, memory\\-mapped registers, interrupts, DMA, clock/reset architecture, memory systems, and hardware/software interfaces.
+* Experience with low\\-level interfaces and debug protocols such as JTAG, SPI, I2C, UART, PCIe, Ethernet, SerDes, or DDR/LPDDR.
+* Hands\\-on experience using oscilloscopes, logic analyzers, spectrum/signal analyzers, power supplies, and other silicon bring\\-up and validation equipment.
+* Demonstrated ability to debug complex problems spanning hardware, firmware/software, and system boundaries.
+* Ability to read schematics, silicon specifications, register maps, timing diagrams, and hardware design documentation.
+* Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+**Preferred Qualifications**
+----------------------------
+
+* Experience with first\\-silicon bring\\-up of complex custom ASICs or SoCs.
+* Experience developing post\\-silicon validation frameworks, diagnostics, and automated regression environments.
+* Experience debugging high\\-speed SerDes, PCIe, DDR/LPDDR, Ethernet, or custom chip\\-to\\-chip interfaces.
+* Experience with mixed\\-signal SoCs containing ADCs, DACs, PLLs, clocking, RF, or other analog/mixed\\-signal subsystems.
+* Understanding of signal integrity, power integrity, clocking, reset sequencing, and board\\-level effects on silicon operation.
+* Familiarity with Linux device drivers, embedded RTOS environments, boot flows, and low\\-level firmware.
+* Experience with silicon characterization across voltage, temperature, frequency, and process corners.
+Experience supporting root\\-cause analysis and validating RTL, firmware, software, or silicon fixes.  
+* 
+
+  
+
+Base Pay Range for:
+
+
+CA applicants is $230,398\\.00 \\- $322,556\\.85\\&\\#xa;WA applicants is $230,398\\.00 \\- $322,556\\.85
+**Other site ranges may differ**
+
+  
+
+**Culture Statement**
+
+Don’t meet all desired requirements? Studies have shown that some people are less likely to apply to jobs unless they meet every single desired qualification. At Blue Origin, we are dedicated to building an authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every desired qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.  
+
+
+
+  
+
+**Export Control Regulations**
+
+Applicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.  
+
+
+
+  
+
+**Background Check**
+
+* Required for all positions: Blue’s Standard Background Check
+* Required for Certain Job Profiles: Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation
+* Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs. and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing, vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training.
+Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre\\-employment and random drug testing as well as DOT physical  
+* 
+
+  
+
+**Benefits**
+
+* Benefits include: Medical, dental, vision, basic and supplemental life insurance, paid parental leave, short and long\\-term disability, 401(k) with a company match of up to 5%, and an Education Support Program.
+* Stock Options for all regular employees (working at least 20 hours/week)
+* Paid Time Off: Up to four (4\\) weeks per year based on weekly scheduled hours, and up to 14 company\\-paid holidays.
+Dependent on role type and job level, employees may be eligible for benefits and bonuses based on the company's intent to reward individual contributions and enable them to share in the company's results, or other factors at the company's sole discretion. Bonus amounts and eligibility are not guaranteed and subject to change and cancellation. Please check with your recruiter for more details.  
+* 
+
+  
+
+**Equal Employment Opportunity**
+
+Blue Origin is proud to be an Equal Opportunity/Affirmative Action Employer and is committed to attracting, retaining, and developing a highly qualified and dedicated work force. Blue Origin hires and promotes people on the basis of their qualifications, performance, and abilities. We support the establishment and maintenance of a workplace that fosters trust, equality, and teamwork. We provide all qualified applicants for employment and employees with equal opportunities for hire, promotion, and other terms and conditions of employment, regardless of their race, color, religion, sex, sexual orientation, gender identity, national origin/ethnicity, age, physical or mental disability, genetic factors, military/veteran status, or any other status or characteristic protected by federal, state, and/or local law. Blue Origin will consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state, and local laws, including the Washington Fair Chance Act, the California Fair Chance Act, the Los Angeles Fair Chance in Hiring Ordinance, and other applicable laws.  
+
+
+
+  
+
+**Affirmative Action and Disability Accommodation**
+
+Applicants wishing to receive information on Blue Origin’s Affirmative Action Plans, or applicants requiring a reasonable accommodation in order to participate in the application and/or interview process, please contact us at EEOCompliance@blueorigin.com . Please note this is a publicly managed inbox. Please do not include any personal medical information in your request.","","https://www.indeed.com/cmp/Blue-Origin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7b1299ff11effdcaae4d2fe7279411d4","https://www.blueorigin.com","Kent, WA","10,000+","$5M to $25M (USD)","Blue Origin was founded with a vision to enable a future where millions of people are living and working in space to benefit Earth.","","","","","",""
+"li-4414034567","linkedin","https://www.linkedin.com/jobs/view/4414034567","","Senior Software Engineer, Backend","Robinhood","Menlo Park, CA","2026-09-29","","","","","","",False,"","","","","","","https://www.linkedin.com/company/robinhood","","","","","","","","","","","",""
+"li-4454415891","linkedin","https://www.linkedin.com/jobs/view/4454415891","","Senior Software Engineer, Booking","Waymo","Mountain View, CA","2026-09-29","","","","","","",False,"","","","","","","https://www.linkedin.com/company/waymo","","","","","","","","","","","",""
+"li-4397671034","linkedin","https://www.linkedin.com/jobs/view/4397671034","","Senior CIAM Software Engineer","Affirm","San Jose, CA","2026-09-29","","","","","","",False,"","","","","","","https://www.linkedin.com/company/affirm","","","","","","","","","","","",""
+"li-4441838717","linkedin","https://www.linkedin.com/jobs/view/4441838717","","Senior, Software Engineer - Back End","Walmart","Sunnyvale, CA","2026-09-28","","","","","","",False,"","","","","","","https://www.linkedin.com/company/walmart","","","","","","","","","","","",""
+"li-4337360703","linkedin","https://www.linkedin.com/jobs/view/4337360703","","Senior Software Engineer","Walmart","Sunnyvale, CA","2026-09-28","","","","","","",False,"","","","","","","https://www.linkedin.com/company/walmart","","","","","","","","","","","",""
+"li-4395480457","linkedin","https://www.linkedin.com/jobs/view/4395480457","","Senior Software Engineer, Graphics Performance","NVIDIA","Santa Clara, CA","2026-09-28","","","","","","",False,"","","","","","","https://www.linkedin.com/company/nvidia","","","","","","","","","","","",""
+"li-4337360716","linkedin","https://www.linkedin.com/jobs/view/4337360716","","Senior Software Engineer","Walmart Global Tech","Sunnyvale, CA","2026-09-28","","","","","","",False,"","","","","","","https://www.linkedin.com/company/walmartglobaltech","","","","","","","","","","","",""
+"li-4395470524","linkedin","https://www.linkedin.com/jobs/view/4395470524","","Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing","NVIDIA","Santa Clara, CA","2026-09-27","","","","","","",False,"","","","","","","https://www.linkedin.com/company/nvidia","","","","","","","","","","","",""
+"li-4463790890","linkedin","https://www.linkedin.com/jobs/view/4463790890","","Software Engineer II, Backend - Platform Team","Rippling","San Francisco, CA","2026-09-27","","","","","","",False,"","","","","","","https://www.linkedin.com/company/rippling","","","","","","","","","","","",""
+"li-4337350291","linkedin","https://www.linkedin.com/jobs/view/4337350291","","Senior/Software Engineer III - Backend, Marketplace","Walmart Global Tech","Sunnyvale, CA","2026-09-27","","","","","","",False,"","","","","","","https://www.linkedin.com/company/walmartglobaltech","","","","","","","","","","","",""

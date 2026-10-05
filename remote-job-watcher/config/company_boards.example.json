@@ -1,0 +1,11 @@
+{
+  "_comment": "Copy this file to company_boards.json and replace the placeholders with real values. These are EXAMPLES ONLY and are not guaranteed to exist or return jobs.",
+  "greenhouse": [
+    "REPLACE_WITH_GREENHOUSE_BOARD_TOKEN",
+    "another-board-token"
+  ],
+  "lever": [
+    "REPLACE_WITH_LEVER_SITE_NAME",
+    "another-lever-site"
+  ]
+}
